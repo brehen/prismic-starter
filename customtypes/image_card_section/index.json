@@ -1,0 +1,9 @@
+{
+  "id": "image_card_section",
+  "label": "image card section",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}
